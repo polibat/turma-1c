@@ -1,4 +1,4 @@
-# turma1c
+# turma-1c
 #repositorio arquivo aula hmlm e cbs
 #(arquivos da turma 1c)
 ### linguagem html
